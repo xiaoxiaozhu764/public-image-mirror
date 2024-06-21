@@ -273,6 +273,7 @@ docker.io/volcanosh/**
 docker.io/weaveworks/**
 docker.io/wiznote/wizserver
 docker.io/xhofe/alist
+docker.io/altran1502/immich-server
 gcr.io/**
 ghcr.io/aquasecurity/**
 ghcr.io/benc-uk/kubeview
